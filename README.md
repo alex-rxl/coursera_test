@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/alex-rxl/coursera_test.svg?branch=main)](https://app.travis-ci.com/alex-rxl/coursera_test)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alex-rxl/coursera_test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
