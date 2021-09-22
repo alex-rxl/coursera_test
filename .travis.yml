@@ -1,4 +1,4 @@
-language: ruby
+language: HTML
 rvm:
- - 2.2
- - jruby
+ - 
+ - 
